@@ -1,7 +1,7 @@
 name: sugarnorsalt
 favicon: null
-layout_spectrum: 0.47089049336500466
-typography_spectrum: 0.5891043667215854
+layout_spectrum: 0
+typography_spectrum: 0.74288
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#FBB9BF'
     - '#E376B7'
   brandStrength: 0.6837626148480922
-  lightness: 0.5399036491289735
-  saturation: 0.8150248767342418
-  rhythmicContrast: 0.9689696058630943
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
