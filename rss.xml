@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[sugarnorsalt]]></title>
         <description><![CDATA[sugarnorsalt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sugarnorsalt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 03:45:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 03:54:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sugarnorsalt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[first post]]></title>
             <description><![CDATA[<article><h1>first post</h1><p>When caught in the rain, remember, you are neither sugar nor salt.</p></article>]]></description>
-            <link>undefinedfirst-post/index.html</link>
+            <link>https://thegrid.ai/sugarnorsalt/first-post/index.html</link>
             <guid isPermaLink="false">7a16b390-f0b2-40d7-ba56-b9d996e14730</guid>
             <pubDate>Sat, 12 Dec 2015 03:45:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d084f4e-b460-47ef-a8d1-86f44ee6a24e.jpg">]]></description>
+            <link>https://thegrid.ai/sugarnorsalt/1d3012ce-b765-4715-869d-bd0bf4fdea3a/index.html</link>
+            <guid isPermaLink="false">1d3012ce-b765-4715-869d-bd0bf4fdea3a</guid>
+            <pubDate>Sat, 12 Dec 2015 03:53:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
